@@ -1,0 +1,74 @@
+* {
+  box-sizing: border-box;
+}
+
+body 
+    {
+      margin: 0;
+    }
+
+#myVideo
+        {
+          position: fixed;
+          right: 0;
+          bottom: 0;
+          min-width: 100%; 
+          min-height: 100%;
+        }
+
+.midcontent 
+            {
+              position:fixed;
+              top: 0;
+              color: #f1f1f1;
+              width: 100%;
+              padding: 20px;
+              margin-left: 25%;
+              margin-right: 25%;
+
+            }
+.logoo
+      {
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        margin-top: 80px;
+      }
+
+.row
+      {
+        position: sticky;
+        bottom: 0;
+        color: #f1f1f1;
+        width: 100%;
+        padding: 20px;
+        float: right;
+      
+        text-align: center;
+      }
+
+.company 
+      {
+        background-color:transparent;
+        text-align: center;
+        font-family: OCR-A BT;
+        
+      }
+
+.foot 
+      {
+        position: fixed;
+        bottom: 0;
+        background: #454545;
+        width: 100%;
+        color: #E7E7E7;
+        padding-bottom:0px;
+        text-align: center;
+        height: 40px;
+      }
+
+.parag
+      {
+        font-size: 22px;
+        font-family: Courier New;
+      }
